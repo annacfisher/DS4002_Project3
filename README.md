@@ -17,7 +17,7 @@ The platforms used to run this project are Google Colab and Jupyter Notebook, wi
 
 ## OUTPUT folder:
 - Output_EDA.pdf: EDA plots are shown describing the snake data.
-- Results: Performance statistics from the CNN model.
+- Results.jpg: Performance statistics from the CNN model.
 
 ### SCRIPTS
 - 1_Preprocessing_and_EDA: Processing the image data into python and performing explanatory data analysis.
