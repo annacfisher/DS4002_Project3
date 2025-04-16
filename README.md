@@ -26,8 +26,9 @@ The platforms used to run this project are Google Colab and Jupyter Notebook, wi
 ## LICENSE
 - MIT License dictating how this data and analysis can be used.
 
-##Reproducing Results
-To start reproduicng results, you first must access the zip file of all of the snake photos from the seperate repository. Within this zip file, the images are already seperated into train and test data. Within each train and test folder, they are seperated into venomous and nonvenomous folders containing the images of the snake. Once the file is downloaded, the images are processed in the beginning ofboth scripts. Open the 1_Preprocessing_and_EDA script to process the image to see the propertires, s
+## Reproducing Results
+
+To start reproduicng results, you first must access the zip file of all of the snake photos from the seperate repository. Within this zip file, the images are already seperated into train and test data. Within each train and test folder, they are seperated into venomous and nonvenomous folders containing the images of the snake. Once the file is downloaded, the images are processed in the beginning ofboth scripts. Open the 1_Preprocessing_and_EDA script to process the image to and to analyze the exploratory data analysis which will show you properties, dimensions, and sample of the snake data. Next, you will open the 2_Snake_model script. Within this script you will be able to process the image data, use MobileNetV2 to create a convolutional neural network model, and analyze the performance statistics of the model.
 
 
 
