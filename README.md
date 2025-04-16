@@ -16,7 +16,7 @@ The platforms used to run this project are Google Colab and Jupyter Notebook, wi
 - Data_Appendix.pdf: The data appendix with all data sets and variables explained.
 
 ## OUTPUT folder:
--EDA: EDA plots are shown describing the snake data.
+-Output_EDA.pdf: EDA plots are shown describing the snake data.
 -Results: Performance statistics from the CNN model.
 
 ### SCRIPTS
